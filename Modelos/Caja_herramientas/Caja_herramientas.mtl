@@ -1,0 +1,13 @@
+# Blender 4.2.1 LTS MTL File: 'None'
+# www.blender.org
+
+newmtl metalbox
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/Daniel/Dani/5to Semestre/POO/caja_herramientas/old metal box/textures/metalbox_Albedo.png
+map_Ks C:/Users/Daniel/Dani/5to Semestre/POO/caja_herramientas/old metal box/textures/metalbox_Metallic.png
+map_Ns C:/Users/Daniel/Dani/5to Semestre/POO/caja_herramientas/old metal box/textures/metalbox_Roughness.png
+map_Bump -bm 0.300000 C:/Users/Daniel/Dani/5to Semestre/POO/caja_herramientas/old metal box/textures/metalbox_Normal.png

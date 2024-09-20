@@ -1,0 +1,62 @@
+# Blender 4.2.1 LTS MTL File: 'BL-track.blend'
+# www.blender.org
+
+newmtl Asphalt_Painted_White
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Asphalt_Painted_White.jpg
+map_d C:/Asphalt_Painted_White.jpg
+
+newmtl Asphalt_Rubber_Black
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Asphalt_Rubber_Black.jpg
+map_d C:/Asphalt_Rubber_Black.jpg
+
+newmtl Asphalt_Rubber_Yellow
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Asphalt_Rubber_Yellow.jpg
+map_d C:/Asphalt_Rubber_Yellow.jpg
+
+newmtl Concrete_Aggregate_Small
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Concrete_Aggregate_Small.jpg
+map_d C:/Concrete_Aggregate_Small.jpg
+
+newmtl Material
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl [Asphalt_New]
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Asphalt_New.jpg
+map_d C:/Asphalt_New.jpg

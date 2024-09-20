@@ -1,0 +1,122 @@
+# Blender 4.2.1 LTS MTL File: 'casaAbandona.blend'
+# www.blender.org
+
+newmtl complements
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl fences
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/Daniel/Dani/5to Semestre/POO/abandoned-house/textures/Assets_Assets_BaseColor.png
+map_Ns C:/Users/Daniel/Dani/5to Semestre/POO/abandoned-house/textures/Assets_Assets_Roughness.png
+map_Bump -bm 1.000000 C:/Users/Daniel/Dani/5to Semestre/POO/abandoned-house/textures/Assets_Assets_Normal.png
+
+newmtl garage.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/Daniel/Dani/5to Semestre/POO/automatic-garage/textures/garage.main_garage_BaseColor.png
+map_Ns C:/Users/Daniel/Dani/5to Semestre/POO/automatic-garage/textures/garage.main_garage_Roughness.png
+map_refl C:/Users/Daniel/Dani/5to Semestre/POO/automatic-garage/textures/garage.main_garage_Metallic.png
+map_Bump -bm 1.000000 C:/Users/Daniel/Dani/5to Semestre/POO/automatic-garage/textures/garage.main_garage_Normal.png
+
+newmtl ground_tile
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/Daniel/Dani/5to Semestre/POO/abandoned-house/textures/Mud_basecolor.png
+map_Ns C:/Users/Daniel/Dani/5to Semestre/POO/abandoned-house/textures/Mud_roughness.png
+map_Bump -bm 1.000000 C:/Users/Daniel/Dani/5to Semestre/POO/abandoned-house/textures/Mud_normal.png
+
+newmtl house_udim_1
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/Daniel/Dani/5to Semestre/POO/abandoned-house/textures/House_1001_BaseColor.png
+map_Ns C:/Users/Daniel/Dani/5to Semestre/POO/abandoned-house/textures/House_1001_Roughness.png
+map_Bump -bm 1.000000 C:/Users/Daniel/Dani/5to Semestre/POO/abandoned-house/textures/House_1001_Normal.png
+
+newmtl house_udim_2
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/Daniel/Dani/5to Semestre/POO/abandoned-house/textures/House_1002_BaseColor.png
+map_Ns C:/Users/Daniel/Dani/5to Semestre/POO/abandoned-house/textures/House_1002_Roughness.png
+map_Bump -bm 1.000000 C:/Users/Daniel/Dani/5to Semestre/POO/abandoned-house/textures/House_1002_Normal.png
+
+newmtl rock
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/Daniel/Dani/5to Semestre/POO/abandoned-house/textures/Rock_basecolor.png
+map_Ns C:/Users/Daniel/Dani/5to Semestre/POO/abandoned-house/textures/Rock_roughness.png
+map_Bump -bm 1.000000 C:/Users/Daniel/Dani/5to Semestre/POO/abandoned-house/textures/Rock_normal.png
+
+newmtl stairs
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl stairs_udim_1
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/Daniel/Dani/5to Semestre/POO/abandoned-house/textures/Stairs_1001_BaseColor.png
+map_Ns C:/Users/Daniel/Dani/5to Semestre/POO/abandoned-house/textures/Stairs_1001_Roughness.png
+map_Bump -bm 1.000000 C:/Users/Daniel/Dani/5to Semestre/POO/abandoned-house/textures/Stairs_1001_Normal.png
+
+newmtl stairs_udim_2
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/Daniel/Dani/5to Semestre/POO/abandoned-house/textures/Stairs1_1002_BaseColor.png
+map_Ns C:/Users/Daniel/Dani/5to Semestre/POO/abandoned-house/textures/Stairs1_1002_Roughness.png
+map_Bump -bm 1.000000 C:/Users/Daniel/Dani/5to Semestre/POO/abandoned-house/textures/Stairs1_1002_Normal.png
+
+newmtl trees
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/Daniel/Dani/5to Semestre/POO/abandoned-house/textures/Tree_Tree_BaseColor.png
+map_Ns C:/Users/Daniel/Dani/5to Semestre/POO/abandoned-house/textures/Tree_Tree_Roughness.png
+map_Bump -bm 1.000000 C:/Users/Daniel/Dani/5to Semestre/POO/abandoned-house/textures/Tree_Tree_Normal.png
